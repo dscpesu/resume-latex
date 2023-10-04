@@ -103,7 +103,7 @@ If you find this project helpful or have learned something from it, please consi
 
 ## 📬 Connect with Us
 
-If you have any questions or need support, feel free to reach out to us at **your@email.com**.
+If you have any questions or need support, feel free to reach out to us at **dsc@pes.edu**.
 
 <p align="center">
   <a href="https://dscpesu.com">
