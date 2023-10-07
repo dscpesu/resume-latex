@@ -40,9 +40,23 @@
         }
     ],
 
+    "Projects": [
+        {
+            "ProjectTitle": "Title of the project",
+            "ProjectDesc": "Brief description of the project",
+            "ProjectLink": "Link for the project"
+        }
+    ],
+
     "Achievements": [
         {
             "Achievement": "Brief description of the achievement"
+        }
+    ],
+
+    "Languages": [
+        {
+            "Language": "Level of proficiency of language"
         }
     ],
 
