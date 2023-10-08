@@ -8,7 +8,7 @@
     "website": "",
     "location": ""
   },
-
+  
   "education": [
     {
       "institution": "",
@@ -41,7 +41,11 @@
     }
   ],
 
-
+  "references": [
+    {
+      "referent":""
+    }
+  ],
 
   "awards": [
     {
