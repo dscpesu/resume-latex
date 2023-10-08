@@ -1,0 +1,63 @@
+{
+  "template": 1,
+
+  "about": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "location": ""
+  },
+
+  "education": [
+    {
+      "institution": "",
+      "location": "",
+      "course": "",
+      "score": "",
+      "from": "",
+      "to": ""
+    }
+  ],
+
+   "skills": [
+    {
+      "name": "",
+      "desc": ""
+    }
+
+  ],
+
+
+ "experiences": [
+    {
+      "company": "",
+      "location": "",
+      "role": "",
+      "website": "",
+      "from": "",
+      "to": "",
+      "desc": ""
+    }
+  ],
+
+
+
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "",
+      "desc": "",
+      "link": ""
+    }
+  ]
+}
+
