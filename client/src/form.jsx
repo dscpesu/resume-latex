@@ -16,12 +16,16 @@ export default function Example() {
            <input type="text"name="name"id="name"placeholder='Enter your Name'></input>
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-            <dt className="text-sm font-medium leading-6 text-gray-900 mx-10">Application for</dt>
+            <dt className="text-sm font-medium leading-6 text-gray-900 mx-10">Application </dt>
             <input type="text"name="name"id="name"placeholder='Enter type of job application'></input>
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
             <dt className="text-sm font-medium leading-6 text-gray-900 mx-10">Email address</dt>
             <input type="email"name="email"id="email"placeholder='Enter your email address'></input>
+          </div>
+          <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+            <dt className="text-sm font-medium leading-6 text-gray-900 mx-10">Contact No.</dt>
+            <input type="number"name="number"id="number"placeholder='Enter your contact No'></input>
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
             <dt className="text-sm font-medium leading-6 text-gray-900 mx-10">Education</dt>
