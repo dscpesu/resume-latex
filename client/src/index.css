@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+input,textarea{
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+*{
+    font-size: 24px;
+}
+.background{
+    background-color: orange;
+}
