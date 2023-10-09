@@ -1,0 +1,10 @@
+.adjust {
+  transform: translateX(-50%);
+}
+
+@media (min-width: 768px) {
+  .md\:adjust {
+    transform: translateX(-50%);
+  }
+}
+
