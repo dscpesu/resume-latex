@@ -35,7 +35,7 @@ export let FooterComp = () => {
           </div>
         </nav> 
         <div>
-          <p>Found bugs or want a feature? raise an issue/contribute by clicking <a target='_blank' href="https://github.com/dscpesu/resume-latex" className='link font-semibold text-primary-focus'>here</a> < br className='hidden md:block' /> or drop a mail to <span className=' tracking-wider font-semibold'>dsc@pes.edu</span> </p>
+          <p>Found bugs or want a new feature? raise an issue/contribute by clicking <a target='_blank' href="https://github.com/dscpesu/resume-latex" className='link font-semibold text-primary-focus'>here</a> < br className='hidden md:block' /> or drop a mail to <span className=' tracking-wider font-semibold'>dsc@pes.edu</span> </p>
         </div>
         <aside>
         <p className='font-mono'>This website is licensed under the MIT License.<br/>Copyright (c) 2023 GDSC PESU</p>
