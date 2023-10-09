@@ -4,7 +4,7 @@ import ToDoItem from './todoitem'
 import InputArea from './inputArea'
 export default function Example() {
   return (
-    <div className='background'>
+    <div className='background '>
       <div className="px-4 sm:px-0 ">
         <h3 className="text-base font-semibold leading-7 text-gray-900 flex justify-center items-center">Applicant Information</h3>
         <p className="mt-1  text-sm leading-6 text-gray-500 flex justify-center items-center">Personal details and application.</p>
@@ -49,7 +49,7 @@ export default function Example() {
             <dt className="text-sm font-medium leading-6 text-gray-900 mx-10">Experience</dt>
           
 
-<textarea id="experience" name="experience" placeholder="enter your work expereince" rows="4" cols="50">
+<textarea id="experience" name="experience" placeholder="enter your work expereince" rows="4" cols="30">
 </textarea>
           </div>
 
