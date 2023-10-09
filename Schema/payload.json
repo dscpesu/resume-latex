@@ -1,0 +1,70 @@
+{
+    "Personal Details": [
+        {"First Name": "Akshay"},
+        {"Last Name": "Sridhar"},
+        {"Phone Number": "1234567891"},
+        {"Email": "abc.xyz@gmail.com"},
+        {"City": "Bengaluru"},
+        {"Country": "india"}
+    ],
+    
+    "Links": [
+        {"Github": "GithubAccount"},
+        {"LinkedIn": "LinkedIn Account"}
+    ],
+
+    "Profile": "Brief description of your professional background",
+
+    "Education": [
+        {
+            "School": "Name of the school", 
+            "Grade": "Grade/Score/Rank"
+        },
+        {
+            "University": "Name of the university",
+            "Grade": "GPA"
+        }
+    ],
+
+    "Employment History": [
+        {
+            "JobTitle": "Name of job title",
+            "Duration": "Start date to end date",
+            "Description": "Brief description of skills required, achievements etc"
+        }
+    ],
+
+    "Skills": [
+        {
+            "Skill": "Brief description including level of proficiency"
+        }
+    ],
+
+    "Projects": [
+        {
+            "ProjectTitle": "Title of the project",
+            "ProjectDesc": "Brief description of the project",
+            "ProjectLink": "Link for the project"
+        }
+    ],
+
+    "Achievements": [
+        {
+            "Achievement": "Brief description of the achievement"
+        }
+    ],
+
+    "Languages": [
+        {
+            "Language": "Level of proficiency of language"
+        }
+    ],
+
+    "References": [
+        {
+            "ReferentName": "Name of referent",
+            "ReferentPhone": "1234567899",
+            "ReferentEmail": "abc.zyx@gmail.com"
+        }
+    ]
+}
